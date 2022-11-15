@@ -1,0 +1,25 @@
+p {
+    color:blue;
+    background-color: aqua;
+}
+
+h2{
+    font-weight: 400;
+    font-style: italic;
+}
+.nota {
+    background-color: rgba(192, 213, 99, 0.77);
+    border: 1px solid blue;
+}
+.celeste {
+background-color: lightskyblue;
+margin: 10px;
+padding: 10;
+border: 1px solid black;
+}
+
+.blanco{ 
+background-color: white;
+margin: 10px;
+padding: 10;
+}
